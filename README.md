@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra mais conteúdo sobre mim basta me seguir nas redes abaixo!
  
 
 <div> 
