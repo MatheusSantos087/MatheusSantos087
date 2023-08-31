@@ -13,7 +13,7 @@
 <p align = "center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusSantos087&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0&locale=pt-br">
 </p> 
-<h2 align="center">Pilha de Tecnologia <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="50"></h2>
+<h2 align="center">Pilha de Tecnologia <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="50"> </h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -44,7 +44,7 @@
   Meu Gráfico de Contribuição <img src="https://media3.giphy.com/media/pEuD18F5xjR9SNVmYz/giphy.gif?cid=6c09b952nom1lco4xrjfobxo22gfnlhdfyzyggq2na7l3iu5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/MatheusSantos087/MatheusSantos087/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/MatheusSantos087/MatheusSantos087/raw/output/github-contribution-grid-snake.svg" alt="snake"> </center>
 </p>
 <hr>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=904e95&height=120&section=footer"/>
