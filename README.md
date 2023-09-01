@@ -22,7 +22,7 @@
  <a href="http://www.linkedin.com/in/matheus-santos-12b60a233" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
- <a href="https://contate.me/MatheusSantos087" target="_blank">
+ <a href="https://api.whatsapp.com/send?phone=5575998016823&text=Ol%C3%A1%20Matheus" target="_blank">
   <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     <a href="https://instagram.com/matheussantos087?igshid=OTk0YzhjMDVlZA==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
